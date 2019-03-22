@@ -1,0 +1,72 @@
+body{
+    margin: 0%;
+}
+.topbar{
+    background-color: #3b5998 ;
+    width: 100%;
+    height: auto;
+    padding: 10px 25px;
+    color :white;
+    align: center;
+    border-bottom: 1px solid black;
+    
+}
+.main{
+
+    margin: 25px 100px;
+    padding: 5px 5px;
+
+}
+.createPost{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px 0px;
+}
+.subup{
+    font-size: 30px;
+    padding: 5px;
+    font-family: "Times New Roman", Times, serif;
+    margin: 0;
+}
+input[type=button] {
+    border: none;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 2px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+input[type=button]:hover {
+border: none;
+background: white;
+color: black;
+font-size: 25px;
+border-radius: 10px;
+padding: 2px;
+text-decoration: none;
+cursor: pointer;
+}
+h2{
+    margin: 0px;
+
+}
+.con{
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    width: 98%;
+
+}
+.post{
+
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+hr{
+    margin: 5px;
+}
